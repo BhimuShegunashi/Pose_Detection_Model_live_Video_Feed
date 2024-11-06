@@ -10,11 +10,10 @@ Mediapipe Integration: Utilizes Google's MediaPipe for pose detection and OpenCV
 </div>
 Requirements<div>
 Ensure you have Python 3.x installed and set up the following libraries:<div>
-
-mediapipe<div>
-opencv-python<div>
-numpy<div>
-pickle<div>
+* mediapipe<div>
+* opencv-python<div>
+* numpy<div>
+* pickle<div>
 Interaction:<div>
 
 The live video feed will be displayed in a resizable window.<div>
